@@ -1,0 +1,15 @@
+{
+  "name": "tars-npm",
+  "version": "1.0.0",
+  "description": "hands-on-for-creating-rest-api",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oluwatosin Dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.12.0"
+  }
+}
